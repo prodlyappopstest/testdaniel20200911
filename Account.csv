@@ -1,0 +1,68 @@
+"Guid","AccountSource","AnnualRevenue","BillingCity","BillingCountry","BillingGeocodeAccuracy","BillingLatitude","BillingLongitude","BillingPostalCode","BillingState","BillingStreet","Description","Fax","Industry","Jigsaw","Name","NumberOfEmployees","Phone","ShippingCity","ShippingCountry","ShippingGeocodeAccuracy","ShippingLatitude","ShippingLongitude","ShippingPostalCode","ShippingState","ShippingStreet","SicDesc","Type","Website"
+19c6a98f-4e0d-4f61-b8e2-9f4c91971928,"#N/A",1.0E8,New York,USA,"#N/A","#N/A","#N/A",31349,NY,10 Main Rd.,"#N/A",(212) 555-5555,Manufacturing,"#N/A",Acme 7,680,(212) 555-5555,New York,USA,"#N/A","#N/A","#N/A",31349,NY,10 Main Rd.,"#N/A",Prospect,"#N/A"
+1f47a903-91bb-445c-a0c4-2408f8cc0bee,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Test Account,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+22885fa0-7939-46e0-af78-166611e01ed8,"#N/A","#N/A",San Francisco,USA,"#N/A","#N/A","#N/A",94105,CA,"The Landmark @ One Market, Suite 300","Founded in March 1999, salesforce.com (http://www.salesforce.com) builds and delivers customer relationship management (CRM) applications as scalable online services. The salesforce.com product suite - Team Edition, Professional Edition, Enterprise Edition, Wireless Edition and Offline Edition - gives companies of all sizes a complete 360-degree view of the customer. The company's award-winning CRM solutions provide integrated online sales force automation, customer service and support management, and marketing automation applications to help companies meet the complex challenges of global customer communication. Salesforce.com has received considerable recognition in the industry, including Editors' Choice and two Five-Star ratings from PC Magazine, two Deploy Awards from InfoWorld, Red Herring 100, Upside Hot 100, Investor's Choice Award from Enterprise Outlook, Editors' Choice from TMCLabs, Top 10 CRM Implementation from Aberdeen Group, and InfoWorld's 2001 CRM Technology of the Year. Founded in 1999, salesforce.com is headquartered in San Francisco, with offices in Europe and Asia.",(415) 901-7040,Technology,"#N/A",salesforce.com,"#N/A",(415) 901-7000,San Francisco,USA,"#N/A","#N/A","#N/A",94105,CA,"The Landmark @ One Market, Suite 300","#N/A",Customer,http://www.salesforce.com
+27b6dbb2-846c-4587-ab37-56dd539567ee,"#N/A",9.5E8,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,"#N/A",(014) 427-4428,Construction,"#N/A",Pyramid Construction Inc.,2680,(014) 427-4427,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,"#N/A",Customer - Channel,www.pyramid.com
+2b79bf84-2eaa-4521-b65a-2c73f5b736b9,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",University of Arizona,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Direct,"#N/A"
+354375a5-4d93-4d16-a873-d811619c2bbb,"#N/A",3.5E8,Burlington,USA,"#N/A","#N/A","#N/A",27215,NC,525 S. Lexington Ave,"#N/A",(336) 222-8000,Apparel,"#N/A",Burlington Textiles Corp of America,9000,(336) 222-7000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Direct,www.burlington.com
+3ae07a32-3450-4fb7-95d4-dd7835d2c956,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Test Account,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+3b98393f-9af1-4028-9bc3-ae15c622c4e9,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Grand Hotels & Resorts Ltd,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Direct,"#N/A"
+4b6c6343-fdfc-42b8-a0d3-cccdfd7f47dd,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",GenePoint,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Channel,"#N/A"
+5059bce3-9219-41ec-898f-bad1b6cefaa3,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Burlington Textiles Corp of America,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Direct,"#N/A"
+7e3e7311-66ba-44b0-8ce2-d1e67a5b4b6e,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Pyramid Construction Inc.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Channel,"#N/A"
+7e9f4bc3-c64d-4a59-b07e-c9efd9b79d91,"#N/A",1.39E8,Austin,"#N/A","#N/A","#N/A","#N/A","#N/A",TX,"312 Constitution Place
+Austin, TX 78767
+USA","Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.",(512) 757-9000,Electronics,"#N/A",Edge Communications,1000,(512) 757-6000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","312 Constitution Place
+Austin, TX 78767
+USA","#N/A",Customer - Direct,http://edgecomm.com
+7f909cfc-bc75-47ca-925a-bfb130347cc1,"#N/A",5.6E9,New York,"#N/A","#N/A","#N/A","#N/A","#N/A",NY,"1301 Avenue of the Americas 
+New York, NY 10019
+USA",World's third largest oil and gas company.,(212) 842-5501,Energy,"#N/A",United Oil & Gas Corp.,145000,(212) 842-5500,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1301 Avenue of the Americas 
+New York, NY 10019
+USA","#N/A",Customer - Direct,http://www.uos.com
+869458d5-bb26-4a3e-9278-64c7098825f5,"#N/A",1.0E8,New York,USA,"#N/A","#N/A","#N/A",31349,NY,10 Main Rd.,"#N/A",(212) 555-5555,Manufacturing,"#N/A",Acme 5 v5,680,(212) 555-5555,New York,USA,"#N/A","#N/A","#N/A",31349,NY,10 Main Rd.,"#N/A",Prospect,"#N/A"
+8b653746-3c85-4f17-9257-f85d5b63c643,"#N/A","#N/A",San Francisco,US,"#N/A","#N/A","#N/A",94087,CA,The Landmark @ One Market,"#N/A",(415) 901-7002,"#N/A","#N/A",sForce,"#N/A",(415) 901-7000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",www.sforce.com
+97e7f1a2-23bd-40a7-be87-50bca86cc847,"#N/A","#N/A",Toronto,Canada,"#N/A","#N/A","#N/A",L4B 1Y3,Ontario,150 Chestnut Street,"GBM is the worldwide leader in technology news and information on the Web and the producer of the longest-running and farthest-reaching television shows about technology. GBM's network of sites combines breakthrough interactive technology with engaging content and design and is consistently ranked as the Internet's leading content network in terms of both audience size and revenue, serving millions of users each day. The company's television programming is broadcast by the USA Network and the Sci-Fi Channel to more than 70 million households and is syndicated to broadcast television stations in the nation's top 120 markets, including the top 10 markets.","#N/A",Media,"#N/A",Global Media,14668,(905) 555-1212,Toronto,Canada,"#N/A","#N/A","#N/A",L4B 1Y3,Ontario,150 Chestnut Street,"#N/A",Prospect,"#N/A"
+add26431-0a62-44a2-992a-b179108524bc,"#N/A","#N/A",Singapore,"#N/A","#N/A","#N/A","#N/A","#N/A",Singapore,"9 Tagore Lane
+Singapore, Singapore 787472
+Singapore","#N/A",(650) 450-8820,Energy,"#N/A","United Oil & Gas, Singapore",3000,(650) 450-8810,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","9 Tagore Lane
+Singapore, Singapore 787472
+Singapore","#N/A",Customer - Direct,http://www.uos.com
+b5f0548d-960c-409f-b22c-1197e137a9fe,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Edge Communications,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Direct,"#N/A"
+ba72cb3c-2c9d-4dc2-ae12-4239c4ce8cbf,"#N/A",1.39E8,Austin,"#N/A","#N/A","#N/A","#N/A","#N/A",TX,"312 Constitution Place
+Austin, TX 78767
+USA","Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.",(512) 757-9000,Electronics,"#N/A",Edge Communications,1000,(512) 757-6000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","312 Constitution Place
+Austin, TX 78767
+USA","#N/A",Customer - Direct,http://edgecomm.com
+bb945436-5911-4ae9-9420-5855dabca7b0,"#N/A",5.0E8,Chicago,"#N/A","#N/A","#N/A","#N/A","#N/A",IL,"2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA","Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.",(312) 596-1500,Hospitality,"#N/A",Grand Hotels & Resorts Ltd,5600,(312) 596-1000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA","#N/A",Customer - Direct,www.grandhotels.com
+c2915faf-4dca-49ee-8708-62a1372335e3,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","United Oil & Gas, Singapore","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Direct,"#N/A"
+c7ad5ab8-c3ce-4352-815f-5f6d8fc70250,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Dickenson plc,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Channel,"#N/A"
+ce10e05f-246b-4973-a778-f7d7377760b3,"#N/A",9.5E8,Portland,"#N/A","#N/A","#N/A","#N/A","#N/A",OR,"620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States",Commerical logistics and transportation company.,(503) 421-7801,Transportation,"#N/A",Express Logistics and Transport,12300,(503) 421-7800,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States","#N/A",Customer - Channel,www.expressl&t.net
+d261a804-3264-4128-a406-2e57d8576dbf,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",United Oil & Gas Corp.,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Direct,"#N/A"
+dfcfeafd-0b06-4220-acd9-1addeae850d7,"#N/A",5.0E7,Lawrence,USA,"#N/A","#N/A","#N/A",66045,KS,1301 Hoch Drive,"#N/A",(785) 241-6201,Consulting,"#N/A",Dickenson plc,120,(785) 241-6200,Lawrence,USA,"#N/A","#N/A","#N/A",66045,KS,1301 Hoch Drive,"#N/A",Customer - Channel,dickenson-consulting.com
+e5692421-6b4d-44f3-9315-e661450682c5,"#N/A","#N/A",Tucson,"#N/A","#N/A","#N/A","#N/A","#N/A",AZ,"888 N Euclid 
+Hallis Center, Room 501
+Tucson, AZ 85721
+United States","Leading university in AZ offering undergraduate and graduate programs in arts and humanities, pure sciences, engineering, business, and medicine.",(520) 773-9060,Education,"#N/A",University of Arizona,39000,(520) 773-9050,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","888 N Euclid 
+Hallis Center, Room 501
+Tucson, AZ 85721
+United States","#N/A",Customer - Direct,www.universityofarizona.com
+e60d7a4a-9c9d-449c-a9b1-4c1c4568d977,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",UK,"Kings Park, 17th Avenue, Team Valley Trading Estate,
+Gateshead, Tyne and Wear NE26 3HS
+United Kingdom","#N/A",+44 191 4956620,Energy,"#N/A","United Oil & Gas, UK",24000,+44 191 4956203,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","Kings Park, 17th Avenue, Team Valley Trading Estate,
+Gateshead, Tyne and Wear NE26 3HS
+United Kingdom","#N/A",Customer - Direct,http://www.uos.com
+f11f1029-79bc-4827-86be-321c9e399d77,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Express Logistics and Transport,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Channel,"#N/A"
+f812c46a-89ec-4d15-85fe-8a26b9da0d75,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","United Oil & Gas, UK","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Customer - Direct,"#N/A"
+fb0ddb21-5bd4-4fcf-9ded-dff8fb42b303,"#N/A",3.0E7,Mountain View,"#N/A","#N/A","#N/A","#N/A","#N/A",CA,"345 Shoreline Park
+Mountain View, CA 94043
+USA",Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs,(650) 867-9895,Biotechnology,"#N/A",GenePoint,265,(650) 867-3450,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","345 Shoreline Park
+Mountain View, CA 94043
+USA","#N/A",Customer - Channel,www.genepoint.com
+fe904ad4-f1de-4e31-84f5-deb8d27cea2f,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",sForce,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
